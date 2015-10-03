@@ -1,0 +1,10 @@
+{
+  "applications": {
+    "Gemma": {
+      "applicationId": "QT04YFcwozuLYJQVGLeLrF6bsnIafFEi0dHgxL4S"
+    },
+    "_default": {
+      "link": "Gemma"
+    }
+  }
+}
